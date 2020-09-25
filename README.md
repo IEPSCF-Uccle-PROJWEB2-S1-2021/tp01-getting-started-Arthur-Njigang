@@ -9,23 +9,21 @@
 
 ## Nom
 
-Skywalker
+NJIGANG
 
 ## Prénom
 
-Luke
+Arthur Lionel
 
 ## Courte présentation
 
 Bonjour,
 
-Je m'appelle Luke.
-J'aime bien piloter des vaisseaux spatiaux en mode manuel.
-Et je aussi parler aux robots.
-Grand voyageur, j'ai visité plusieurs planètes.
-Malheureusement, mes voyages ne se terminent pas toujours bien.
-
-Je suis tantôt impulsif, tantôt grognon.
-Et j'ai une famille un peu compliquée.
+Je m'appelle Arthur.
+J'aime bien aller en balade avec des amis, faire des voyages pour rencontrer la famille.
+Et j'aime aussi passer du temps avec ma petite amie.
+Grand touriste, j'ai visité beaucoup de pays et de villes.
+J'ai une tendance à vouloir faire plaisir à tout mon entourage, à ètre toujours la pour chacun d'eux.
+Mais quand c'est moi qui suis dans le besoin, tous me tournent le dosà l'exception de ma petite amie et de ma famille.
 
 J'ai hâte d'apprendre à programmer en JavaScript.
